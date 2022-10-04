@@ -1,4 +1,4 @@
-package advanced;
+package advanced.lambda;
 
 public class LambdaCaution {
 

@@ -1,4 +1,4 @@
-package advanced;
+package advanced.lambda;
 
 /**
  * 람다는 매개 변수를 가진 코드 블록이지만, 런타임 시에는 익명 구현 객체를 생성한다.

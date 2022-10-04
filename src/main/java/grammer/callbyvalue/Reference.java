@@ -1,5 +1,10 @@
-package grammer;
+package grammer.callbyvalue;
 
+/**
+ * JAVA 는 call By value 이다.
+ * 주소값을 복사해서 사용하게 된다.
+ * 따라서 메서드를 통해 assign 하는 것은 바깥 객체에 영향을 미칠 수 없다.
+ */
 public class Reference {
 
     public static void main(String[] args) {
