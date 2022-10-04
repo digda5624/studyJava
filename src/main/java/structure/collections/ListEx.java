@@ -66,6 +66,11 @@ public class ListEx {
         list.add(test);
         list.add(test);
         test.setStr("diff");
+
+        list.forEach(myClass -> {
+            myClass = new MyClass("hahaha");
+        });
+
         test.getStr();
     }
 
